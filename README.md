@@ -4,7 +4,7 @@ Here are some of my physics simulations using vpython.
 ## Physics is more fun when you can see it working.
 <sub>This is the reason behind the repository<\sub>
 
-The majority of the projects are done using *Trinket* and *VPython*.
+The majority of the projects are done using **Trinket** and **VPython**.
 
 Trinket is a web-based platform that provides a variety of educational tools for programming and computer science education. 
 It allows users to write, run, and share code snippets in a variety of programming languages including Python, HTML, CSS, and JavaScript. 
