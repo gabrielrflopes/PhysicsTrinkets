@@ -1,10 +1,6 @@
 # PhysicsTrinkets
 Here are some of my physics simulations using vpython.
 
-<p align="center">
-  <img src="physics_.jpg" >
-</p>
-
 ## Physics is more fun when you can see it working.
 
 The majority of the projects were done using **Trinket** and **VPython**.
