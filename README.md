@@ -2,7 +2,7 @@
 Here are some of my physics simulations using vpython.
 
 ## Physics is more fun when you can see it working.
-<sub>This is the reason behind the repository<\sub>
+<sub>That is the reason behind the repository</sub>
 
 The majority of the projects are done using **Trinket** and **VPython**.
 
