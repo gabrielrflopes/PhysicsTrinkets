@@ -2,7 +2,7 @@
 Here are some of my physics simulations using vpython.
 
 <p align="center">
-  <img src="physics_.jpeg" >
+  <img src="physics_.jpg" >
 </p>
 
 ## Physics is more fun when you can see it working.
