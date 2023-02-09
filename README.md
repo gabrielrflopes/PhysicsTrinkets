@@ -14,7 +14,7 @@ VPython is a 3D graphics library for the Python programming language. It is spec
 provides a simple, intuitive way for users to create and manipulate 3D graphics and animations.
 
 Physics simulations:
-  - [Simple Pendulum](<iframe src="https://trinket.io/embed/glowscript/47dd97aa98?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>)
+  * [Simple Pendulum](https://trinket.io/glowscript/47dd97aa98)
   
 Hope you enjoy this!
 
