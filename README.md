@@ -18,6 +18,7 @@ provides a simple, intuitive way for users to create and manipulate 3D graphics 
  * [Double Pendulum](https://trinket.io/glowscript/e92cdd5316)
  * [Sliding bead on a tilting wire](https://trinket.io/glowscript/65d5628d91)
  * [Spacecraft in orbit](https://trinket.io/glowscript/52576805dc)
+ * [Simple projectile motion](https://trinket.io/glowscript/7406d9ff59)
  
 Hope you enjoy this!
 
