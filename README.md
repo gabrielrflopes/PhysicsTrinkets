@@ -13,7 +13,7 @@ The platform is designed to be an easy-to-use and accessible environment for lea
 VPython is a 3D graphics library for the Python programming language. It is specifically designed for scientific and educational purposes and 
 provides a simple, intuitive way for users to create and manipulate 3D graphics and animations.
 
-Physics simulations:
+### Physics simulations:
  
  * [Simple Pendulum](https://trinket.io/glowscript/47dd97aa98)
  * [Double Pendulum](https://trinket.io/glowscript/e92cdd5316)
