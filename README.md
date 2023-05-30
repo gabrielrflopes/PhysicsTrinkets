@@ -1,24 +1,22 @@
-# PhysicsTrinkets
-Here are some of my physics simulations using vpython.
+# Python com Física
 
-## Physics is more fun when you can see it working.
+Neste repositório, vou postar projetos de física utilizando o Python através do **Trinket** e o **VPython**.
 
-The majority of the projects were done using **Trinket** and **VPython**.
+## Ampliando o aprendizado em Física com Python
 
-Trinket is a web-based platform that provides a variety of educational tools for programming and computer science education. 
-It allows users to write, run, and share code snippets in a variety of programming languages including Python, HTML, CSS, and JavaScript. 
-The platform is designed to be an easy-to-use and accessible environment for learning and teaching programming and computer science concepts.
+Trinket é uma plataforma baseada na web que oferece uma variedade de ferramentas educacionais para programação e ensino de ciência da computação.
+Ela permite que os usuários escrevam, executem e compartilhem trechos de código em várias linguagens de programação, incluindo Python, HTML, CSS e JavaScript.
+A plataforma é projetada para ser um ambiente fácil de usar e acessível para aprender e ensinar conceitos de programação e ciência da computação.
 
-VPython is a 3D graphics library for the Python programming language. It is specifically designed for scientific and educational purposes and 
-provides a simple, intuitive way for users to create and manipulate 3D graphics and animations.
+VPython é uma biblioteca de gráficos 3D para a linguagem de programação Python. Ela é especificamente projetada para fins científicos e educacionais e
+fornece uma maneira simples e intuitiva para os usuários criarem e manipularem gráficos 3D e animações.
 
-### Physics simulations:
+### Projetos:
  
- * [Simple Pendulum](https://trinket.io/glowscript/47dd97aa98)
- * [Double Pendulum](https://trinket.io/glowscript/e92cdd5316)
- * [Sliding bead on a tilting wire](https://trinket.io/glowscript/65d5628d91)
- * [Spacecraft in orbit](https://trinket.io/glowscript/52576805dc)
- * [Simple projectile motion](https://trinket.io/glowscript/7406d9ff59)
- 
-Hope you enjoy this!
+ * [Pêndulo Simples](https://trinket.io/glowscript/47dd97aa98)
+ * [Pêndulo Duplo](https://trinket.io/glowscript/e92cdd5316)
+ * [Conta deslizando em um fio](https://trinket.io/glowscript/65d5628d91)
+ * [Satélite em órbita](https://trinket.io/glowscript/52576805dc)
+ * [Movimento harmônico simples](https://trinket.io/glowscript/7406d9ff59)
+
 
