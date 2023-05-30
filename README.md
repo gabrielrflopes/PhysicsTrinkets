@@ -1,5 +1,9 @@
 # Python com Física
 
+<p align="center">
+  <img src="capa_python_com_fisica.png" >
+</p>
+
 Neste repositório, vou postar projetos de física utilizando o Python através do **Trinket** e o **VPython**.
 
 ## Ampliando o aprendizado em Física com Python
