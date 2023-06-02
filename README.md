@@ -24,6 +24,8 @@ fornece uma maneira simples e intuitiva para os usuários criarem e manipularem 
 * [Movimento de projétil](https://trinket.io/library/trinkets/cde484ebfe)
 * [Movimento de projétil com resistência do ar](https://trinket.io/library/trinkets/50b5b20f9b)
 * [Alcance máximo do projétil](https://trinket.io/library/trinkets/2eee313e10)
+* [Alcance máximo do projétil com resistência do ar](https://trinket.io/library/trinkets/f11cb3557d)
+* [Relação entre raio da esfera e alcance máximo, com resistência do ar](https://trinket.io/library/trinkets/beee39cf8b)
 * [Pêndulo Simples](https://trinket.io/glowscript/47dd97aa98)
 * [Pêndulo Duplo](https://trinket.io/glowscript/e92cdd5316)
 * [Conta deslizando em um fio](https://trinket.io/glowscript/65d5628d91)
