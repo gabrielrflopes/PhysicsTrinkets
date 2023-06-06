@@ -31,5 +31,8 @@ fornece uma maneira simples e intuitiva para os usuários criarem e manipularem 
 * [Pêndulo Duplo](https://trinket.io/glowscript/e92cdd5316)
 * [Conta deslizando em um fio](https://trinket.io/glowscript/65d5628d91)
 * [Movimento harmônico simples](https://trinket.io/glowscript/7406d9ff59)
+* [Pêndulo Massa-Mola](https://trinket.io/library/trinkets/b423df3d20)
+* [Energia no sistema massa-mola](https://trinket.io/library/trinkets/9b76893d07)
+* [Energia no sistema massa-mola com dissipação](https://trinket.io/library/trinkets/ff32cd6047)
 
 
