@@ -34,5 +34,7 @@ fornece uma maneira simples e intuitiva para os usuários criarem e manipularem 
 * [Pêndulo Massa-Mola](https://trinket.io/library/trinkets/b423df3d20)
 * [Energia no sistema massa-mola](https://trinket.io/library/trinkets/9b76893d07)
 * [Energia no sistema massa-mola com dissipação](https://trinket.io/library/trinkets/ff32cd6047)
+* [Massas conectadas por uma mola](https://trinket.io/library/trinkets/33dbe667a5)
+* [Colisão elástica entre duas massas](https://trinket.io/library/trinkets/eaf696f821)
 
 
